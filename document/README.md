@@ -1,7 +1,24 @@
 # Các công thức học lại
 
 Kiến thức lượng giác
+
+
+
 Dùng chuỗi Taylor để đánh giá
+# Chứng minh
+đa thức có n nghiệm
+
+
+
+đa thức có   nghiệm z thì có z ngang
+
+
+đa thức là tích bậc 1 với bậc 2
+
+
+
+chứng minh bất đẳng thức tam giác
+
 
 # ==============
 
@@ -100,9 +117,32 @@ Vì :
 
 ![Alt text](image-48.png)
 ![Alt text](image-49.png)
-![Alt text](image-50.png)
+![Alt text](image-51.png)
+![Alt text](image-52.png)
+![Alt text](image-53.png)
+![Alt text](image-54.png)
+![Alt text](image-55.png)
+![Alt text](image-56.png)
+![Alt text](image-57.png)
+
+
 
 # ==============
+![Alt text](image-58.png)
+![Alt text](image-59.png)
+![Alt text](image-60.png)
+![Alt text](image-61.png)
+
+
+
+
+
+
+
+
+
+
+
 
 # ==============
 
