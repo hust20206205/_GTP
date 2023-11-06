@@ -244,7 +244,45 @@ Hyperpolic
 
 
 # ==============
+Bài tập chương 1
 
 
+1
+
+
+2
+
+
+
+3
+![Alt text](image-111.png)
+
+![Alt text](image-112.png)
+
+Công thức  tính tiêu diểm elip
+
+
+![Alt text](image-113.png)
+4
+
+
+5
+![Alt text](image-114.png)
+
+
+6
+??????????
+
+7
+
+8
+
+9
+
+10
+
+
+11
+khó
 
 # ==============
