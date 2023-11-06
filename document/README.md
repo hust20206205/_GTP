@@ -1,3 +1,5 @@
+# Các công thức học lại
+
 Kiến thức lượng giác
 Dùng chuỗi Taylor để đánh giá
 
