@@ -126,20 +126,14 @@ Vì :
 ![Alt text](image-60.png)
 ![Alt text](image-61.png)
 
-
-
 # ==============
+
 ![Alt text](image-62.png)
 ![Alt text](image-63.png)
 ![Alt text](image-64.png)
 
-
-
-
-
-
-
 # ==============
+
 ![Alt text](image-65.png)
 ![Alt text](image-66.png)
 ![Alt text](image-67.png)
@@ -148,12 +142,11 @@ Vì :
 ![Alt text](image-70.png)
 ![Alt text](image-72.png)
 
-
 ![Alt text](image-71.png)
 ![Alt text](image-73.png)
 
-
 # ==============
+
 ![Alt text](image-74.png)
 ![Alt text](image-75.png)
 ![Alt text](image-76.png)
@@ -163,9 +156,8 @@ Vì :
 ![Alt text](image-80.png)
 ![Alt text](image-81.png)
 
-
-
 # ==============
+
 ![Alt text](image-82.png)
 ![Alt text](image-83.png)
 
@@ -174,30 +166,19 @@ Vì :
 
 # ==============
 
-
-
-
-
 ![Alt text](image-86.png)
 ![Alt text](image-87.png)
 
-
-
-
-
-
-
 # ==============
+
 ![Alt text](image-88.png)
 ![Alt text](image-89.png)
-
 
 ![Alt text](image-90.png)
 ![Alt text](image-91.png)
 ![Alt text](image-92.png)
 
 ![Alt text](image-93.png)
-
 
 ![Alt text](image-94.png)
 ![Alt text](image-95.png)
@@ -206,32 +187,20 @@ Vì :
 ![Alt text](image-98.png)
 ![Alt text](image-99.png)
 
-
-
-
-
-
-
 ![Alt text](image-100.png)
 
-
-
 ![Alt text](image-101.png)
-Căn nguyên thủy...c
-
-
-
+Căn nguyên thủy...1,c
 
 ![Alt text](image-102.png)
 ![Alt text](image-103.png)
 
-Định nghĩa sin,      cos???????
+Định nghĩa sin, cos???????
 
 ![Alt text](image-104.png)
 Chứng minh sin cos không bị chặn 1
 ![Alt text](image-105.png)
 ![Alt text](image-106.png)
-
 
 Hyperpolic
 ![Alt text](image-107.png)
@@ -239,36 +208,26 @@ Hyperpolic
 ![Alt text](image-109.png)
 ![Alt text](image-110.png)
 
-
-
-
-
 # ==============
-Bài tập chương 1
 
+Bài tập chương 1
 
 1
 
-
 2
-
-
 
 3
 ![Alt text](image-111.png)
 
 ![Alt text](image-112.png)
 
-Công thức  tính tiêu diểm elip
-
+Công thức tính tiêu diểm elip
 
 ![Alt text](image-113.png)
 4
 
-
 5
 ![Alt text](image-114.png)
-
 
 6
 ??????????
@@ -280,7 +239,6 @@ Công thức  tính tiêu diểm elip
 9
 
 10
-
 
 11
 khó
