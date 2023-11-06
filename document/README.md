@@ -244,3 +244,6 @@ Công thức tính tiêu diểm elip
 khó
 
 # ==============
+Xem thêm video 3 : ![Alt text](image-115.png)
+
+Cho đầy đủ
