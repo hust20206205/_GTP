@@ -146,36 +146,38 @@ Vì :
 ![Alt text](image-68.png)
 ![Alt text](image-69.png)
 ![Alt text](image-70.png)
+![Alt text](image-72.png)
 
 
 ![Alt text](image-71.png)
+![Alt text](image-73.png)
+
+
+# ==============
+![Alt text](image-74.png)
+![Alt text](image-75.png)
+![Alt text](image-76.png)
+![Alt text](image-77.png)
+![Alt text](image-78.png)
+![Alt text](image-79.png)
+![Alt text](image-80.png)
+![Alt text](image-81.png)
 
 
 
 # ==============
+![Alt text](image-82.png)
+![Alt text](image-83.png)
 
-# ==============
+![Alt text](image-84.png)
+![Alt text](image-85.png)
 
-# ==============
 
-# ==============
 
-# ==============
 
-# ==============
 
-# ==============
 
-# ==============
 
-# ==============
 
-# ==============
 
-# ==============
 
-# ==============
-
-# ==============
-
-# ==============
