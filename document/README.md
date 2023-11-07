@@ -360,3 +360,25 @@ xác định ảnh:
 ![Alt text](image-151.png)
 
 <!-- phân loại vở và ghi âm -->
+![Alt text](image-152.png)
+![Alt text](image-153.png)
+![Alt text](image-154.png)
+
+![Alt text](image-155.png)
+
+![Alt text](image-156.png)
+
+
+<!--  -->
+![Alt text](image-157.png)
+![Alt text](image-158.png)
+![Alt text](image-159.png)
+![Alt text](image-160.png)
+![Alt text](image-161.png)
+
+
+
+![Alt text](image-162.png)
+
+
+<!-- Xem vở ảnh của KSTN -->
