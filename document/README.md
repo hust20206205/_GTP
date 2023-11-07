@@ -254,14 +254,9 @@ Bài 5
 ![Alt text](image-127.png)
 ![Alt text](image-124.png)
 
-
-
 ![Alt text](image-125.png)
 
-
-
 ![Alt text](image-126.png)
-
 
 Bài 6
 Giải nghiệm sin z=0
@@ -273,20 +268,18 @@ Bài 8
 
 Bài 9
 ![Alt text](image-130.png)
+
 Bài 10
+ok
 
 Bài 11
 khó
 
+![Alt text](image-132.png)
+Bài 12
+
 # ==============
 
-<!-- Cho đầy đủ -->
-
-Xem thêm video 3 : ![Alt text](image-115.png)
-
 <!-- Tìm file của phân tán -->
-câu 5: ![Alt text](image-123.png)
-
-
 
 ![Alt text](image-131.png)
