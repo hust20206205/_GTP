@@ -251,16 +251,28 @@ Chứng minh tương tự nhưng ngược chiều
 
 Bài 5
 ![Alt text](image-114.png)
+![Alt text](image-127.png)
+![Alt text](image-124.png)
+
+
+
+![Alt text](image-125.png)
+
+
+
+![Alt text](image-126.png)
+
 
 Bài 6
-??????????
+Giải nghiệm sin z=0
 
 Bài 7
-
+![Alt text](image-128.png)
+![Alt text](image-129.png)
 Bài 8
 
 Bài 9
-
+![Alt text](image-130.png)
 Bài 10
 
 Bài 11
@@ -274,3 +286,7 @@ Xem thêm video 3 : ![Alt text](image-115.png)
 
 <!-- Tìm file của phân tán -->
 câu 5: ![Alt text](image-123.png)
+
+
+
+![Alt text](image-131.png)
