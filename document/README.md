@@ -283,6 +283,7 @@ Bài 12
 <!-- Tìm file của phân tán -->
 
 ![Alt text](image-131.png)
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -302,35 +303,32 @@ Bài 12
 <!--  -->
 <!--  -->
 <!--  -->
+
 ![Alt text](image-133.png)
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
 
-
-
-
-
-
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!-- Bỏ qua topo -->
+<!--  -->
 
 ![Alt text](image-134.png)
 ![Alt text](image-135.png)
@@ -339,12 +337,26 @@ Bài 12
 ![Alt text](image-137.png)
 ![Alt text](image-138.png)
 ![Alt text](image-139.png)
+
 <!--  -->
+
 ![Alt text](image-140.png)
 ![Alt text](image-141.png)
+![Alt text](image-142.png)
+![Alt text](image-143.png)
 
+<!-- Bỏ qua topo -->
 
+![Alt text](image-144.png)
+![Alt text](image-145.png)
+![Alt text](image-146.png)
+![Alt text](image-147.png)
+![Alt text](image-148.png)
+VD:
+![Alt text](image-149.png)
+![Alt text](image-150.png)
+xác định ảnh:
 
+![Alt text](image-151.png)
 
-
-
+<!-- phân loại vở và ghi âm -->
