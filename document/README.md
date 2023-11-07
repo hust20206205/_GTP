@@ -273,3 +273,4 @@ khó
 Xem thêm video 3 : ![Alt text](image-115.png)
 
 <!-- Tìm file của phân tán -->
+câu 5: ![Alt text](image-123.png)
