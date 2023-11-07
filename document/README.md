@@ -2,7 +2,7 @@
 
 Lượng giác: Công thức như CTG, Đạo hàm, Nguyên hàm
 
-Chuỗi Taylor 
+Chuỗi Taylor
 
 Công thức tính tiêu điểm elip
 
@@ -19,6 +19,7 @@ chứng minh bất đẳng thức tam giác
 # ==============
 
 ![Alt text](image.png)
+
 <!-- ![Alt text](image-3.png) -->
 <!-- ![Alt text](image-2.png) -->
 <!-- ![Alt text](image-4.png) -->
@@ -49,6 +50,7 @@ Vì :
 ![Alt text](image-19.png)
 => Dùng chuỗi Taylor để đánh giá và tách cho biểu thức đằng sau
 ![Alt text](image-16.png)
+
 <!-- ![Alt text](image-17.png) -->
 <!-- ![Alt text](image-18.png) -->
 <!-- ![Alt text](image-20.png) -->
@@ -202,13 +204,13 @@ Hyperpolic
 
 Bài tập chương 1
 
-Bài                  1
+Bài 1
 dễ
 
-Bài                  2
+Bài 2
 dễ
 
-Bài                  3
+Bài 3
 
 Cách làm
 Cho x(t)= phần thực
@@ -222,12 +224,11 @@ b
 ![Alt text](image-112.png)
 c
 
-
 ![Alt text](image-113.png)
 d
 
 ![Alt text](image-116.png)
-Bài                  4
+Bài 4
 Cách làm
 Cho x(t)= phần thực
 Cho y(t)= phần ảo
@@ -244,35 +245,31 @@ c
 ![Alt text](image-121.png)
 ![Alt text](image-122.png)
 
-
-
-
 d
 
-Chứng minh tương tự nhưng ngược chiều 
+Chứng minh tương tự nhưng ngược chiều
 
-
-Bài                  5
+Bài 5
 ![Alt text](image-114.png)
 
-Bài                  6
+Bài 6
 ??????????
 
-Bài                  7
+Bài 7
 
-Bài                  8
+Bài 8
 
-Bài                  9
+Bài 9
 
-Bài                  10
+Bài 10
 
-Bài                  11
+Bài 11
 khó
 
 # ==============
 
 <!-- Cho đầy đủ -->
-Xem thêm video 3 : ![Alt text](image-115.png)
 
+Xem thêm video 3 : ![Alt text](image-115.png)
 
 <!-- Tìm file của phân tán -->
