@@ -4,6 +4,8 @@ Lượng giác: Công thức như CTG, Đạo hàm, Nguyên hàm
 
 Chuỗi Taylor 
 
+Công thức tính tiêu điểm elip
+
 # Chứng minh
 
 đa thức có n nghiệm
@@ -200,35 +202,71 @@ Hyperpolic
 
 Bài tập chương 1
 
-1
+Bài                  1
+dễ
 
-2
+Bài                  2
+dễ
 
-3
+Bài                  3
+
+Cách làm
+Cho x(t)= phần thực
+Cho y(t)= phần ảo
+Tìm mối quan hệ của x,y
+Vẽ đồ thị
+a
 ![Alt text](image-111.png)
+b
 
 ![Alt text](image-112.png)
+c
 
-Công thức tính tiêu diểm elip
 
 ![Alt text](image-113.png)
-4
+d
 
-5
+![Alt text](image-116.png)
+Bài                  4
+Cách làm
+Cho x(t)= phần thực
+Cho y(t)= phần ảo
+Tìm mối quan hệ của x,y
+a
+![Alt text](image-118.png)
+b
+![Alt text](image-117.png)
+
+c
+
+![Alt text](image-119.png)
+![Alt text](image-120.png)
+![Alt text](image-121.png)
+![Alt text](image-122.png)
+
+
+
+
+d
+
+Chứng minh tương tự nhưng ngược chiều 
+
+
+Bài                  5
 ![Alt text](image-114.png)
 
-6
+Bài                  6
 ??????????
 
-7
+Bài                  7
 
-8
+Bài                  8
 
-9
+Bài                  9
 
-10
+Bài                  10
 
-11
+Bài                  11
 khó
 
 # ==============
