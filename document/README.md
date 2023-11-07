@@ -233,8 +233,8 @@ khó
 
 # ==============
 
+<!-- Cho đầy đủ -->
 Xem thêm video 3 : ![Alt text](image-115.png)
 
-Cho đầy đủ
 
-Tìm file của phân tán
+<!-- Tìm file của phân tán -->
