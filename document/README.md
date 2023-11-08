@@ -381,4 +381,14 @@ xác định ảnh:
 ![Alt text](image-162.png)
 
 
-<!-- Xem vở ảnh của KSTN -->
+
+
+
+
+
+
+
+
+
+![Alt text](image-163.png)
+![Alt text](image-164.png)
